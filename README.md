@@ -1,5 +1,5 @@
 # Shortest-path-algorithms
-Short Project that implements shortest paths algorithms
+Short university Project that implements shortest paths algorithms
 Implemented with python
 
 #Runing
