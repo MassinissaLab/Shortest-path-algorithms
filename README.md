@@ -1,6 +1,6 @@
 # Shortest-path-algorithms
 Short university Project that implements shortest paths algorithms
-Implemented with python
+Implemented with python and pyqt
 
 #Runing
 
